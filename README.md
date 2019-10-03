@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/SRI-CSL/libpoly.svg?branch=master)](https://travis-ci.org/SRI-CSL/libpoly)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/5716/badge.svg)](https://scan.coverity.com/projects/5716)
+[![Build Status](https://travis-ci.com/ianamason/libpolywantacracker.svg?branch=master)](https://travis-ci.com/ianamason/libpolywantacracker)
 
 
 # LibPoly
@@ -82,7 +81,3 @@ sudo add-apt-repository ppa:sri-csl/formal-methods
 sudo apt-get update
 sudo apt-get install libpoly-dev
 ```
-
-
-
-
