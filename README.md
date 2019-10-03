@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/ianamason/libpolywantacracker.svg?branch=master)](https://travis-ci.com/ianamason/libpolywantacracker)
 
 
-# LibPoly
+# LibPolyWantACracker
 
 LibPoly is a C library for manipulating polynomials. The target applications
 are symbolic reasoning engines, such as SMT solvers, that need to reason about
